@@ -11,19 +11,17 @@ My name is Maisam, and I'm a college of Computer Science and digital communicati
 </div>
 
 ###
-<div align="left">
-  <a href="https://www.instagram.com/maisam_mi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+- I use
 
-###
+[![Social Media apps](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+
 - I code on
-  - Javascript
-  - Java
-  - c#
-  - python
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,java,py)](https://skillicons.dev)
+
+- For Coding I use these IDEs
+
+[![IDEs](https://skillicons.dev/icons?i=visualstudio,vscode,idea)](https://skillicons.dev)
 
 <!--
 **maisam-mi/maisam-mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
