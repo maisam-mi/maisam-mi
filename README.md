@@ -2,7 +2,7 @@
 My name is Maisam, and I'm a college of Computer Science and digital communication in FH Campus Vienna, Austria. 
 <br>I like web, software and videogame development.
 - 🔭 I’m currently working on
-  - a video game called "Jack in Space"
+  - a video game
 - 🌱 I’m currently learning
   - devops
 
